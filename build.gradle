@@ -44,7 +44,7 @@ dependencies {
     testCompile group: 'org.powermock', name: 'powermock-core', version: '2.0.2'
     testCompile group: 'org.powermock', name: 'powermock-module-junit4', version: '2.0.2'
     testCompile group: 'org.powermock', name: 'powermock-api-mockito', version: '1.7.4'
-    testCompile group: 'org.jmockit', name: 'jmockit', version: '1.46'
+    testCompile group: 'org.jmockit', name: 'jmockit', version: '1.24'
 }
 
 jib {
